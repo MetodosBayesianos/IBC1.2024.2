@@ -1,7 +1,6 @@
 *
 !*/
-*.Rcheck/
-**/__pycache__/
+*/materiales/
 
 ########################
 # Archivos que NO ignora
@@ -35,4 +34,3 @@
 !.keep
 !.gitkeep
 !.gitignore
-

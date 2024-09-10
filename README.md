@@ -6,6 +6,49 @@
   <td width="50%" align="center"><img src="auxiliar/static/ecyt.jpeg" width="250"/></td>
 </tr>-->
 
+
+<h2> Cronograma</h2>
+
+
+<table>
+  <tr>
+    <td width="20%" align="center">Unidad</td>
+    <td width="20%" align="center">Bibliografía</td>
+    <td width="20%" align="center">Teórica</td>
+    <td width="20%" align="center">Práctica</td>
+    <td width="20%" align="center">Video</td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">0 - Previa<br><br></td>
+    <td width="20%" align="center"><a href="https://bayes.wustl.edu/etj/articles/general.background.pdf">Jaynes 1984 (completo)</a><br><a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-MBML-2012.pdf">Bishop 2013 (1-4)</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/0-previa.pdf">0-previa.pdf</a></td>
+    <td width="20%" align="center"></td>
+    <td width="20%" align="center"><br><br></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">1 - Especificación y evaluación de modelos</td>
+    <td width="20%" align="center"><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Bishop 2006 (1.1-1.3, 2.1-2.3, 3.3-3.4)</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/1-modelo.pdf">1-modelo.pdf</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/1-practica.zip">1-practica.zip</a></td>
+    <td width="20%" align="center"><a href="https://youtu.be/iwrhjeLuCAo?si=PYQhQRNcvR0OOA2c">Video YouTube<br><br></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">2 - Sorpresa: el problema de la comunicación con la realidad</td>
+    <td width="20%" align="center"><a href="https://www.inference.org.uk/itprnn/book.pdf">MacKay (1.1, 2.4-6, 4.1)</a><br><a href="https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf">Kelly (completo)</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/2-dato.pdf">2-dato.pdf</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/2-practica.zip">2-practica.zip</a></td>
+    <td width="20%" align="center"><a href="https://youtu.be/nNkodZAbhtg?si=ewEdSmgKCDehVuOT">Video YouTube</a><br><br></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">3 Flujo de inferencia en estructuras causales dinámicas</td>
+    <td width="20%" align="center"><a href="http://www.cs.utoronto.ca/~radford/csc2506/factor.pdf">Kschischang (1,2.2,4,5.1)</a><br><a href="https://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf">Herbrich (completo)</a><br><a href="http://proceedings.mlr.press/v22/winn12/winn12.pdf">Winn (completo)</a></td>
+    <td width="20%" align="center"></td>
+    <td width="20%" align="center"></td>
+    <td width="20%" align="center"><br><br></td>
+  </tr>
+</table>
+
+
 <h2> Materia <code>Inferencia Bayesiana Causal 1</code>. (IBC1.2024.2)</h2>
 
 La materia <code>Inferencia Bayesiana Causal 1</code> se imparte como optativa de forma paralela en las licenciaturas de ciencias de datos de la Escuela de Ciencia y Tecnología de la UNSAM y en las licenciatura de ciencia de datos, ciencias de la computación y posgrado de Facultad de Ciencias Exactas y Naturales, UBA.
@@ -35,6 +78,7 @@ La materia <code>Inferencia Bayesiana Causal 1</code> se imparte como optativa d
     <td width="50%" align="center"><b>Universidad Nacional de Buenos Aires - Argentina</b></td>
   </tr>
 </table>
+
 
 
 <h2> Evaluación </h2>
@@ -150,7 +194,7 @@ El problema real detrás de este problema de conocimiento es responder preguntas
 <li> Estructuras causales dinámicas (teorías). Su especificación mediante gates. Los niveles de razonamiento causal: asociacional, intervencional y contrafactual.</li>
 <li> Flujo de inferencia en teorías causales: pipe, fork, collider. Apertura y cierre de flujos de inferencia entre regiones de la red causal (d-separation).</li>
 <li> Los conceptos de potential outcome y do-operator. El efecto de las intervenciones: truncated factorization. Buenos y malos controles. Ejemplos varios.</li>
-<li> Bibliografía sugerida. Winn (paper), Bishop 2006 (8.2-8.2.2, 8.4-8.4.4, 8.4.7). Neal (2.1, 3, 4.1), Pearl (1).</li>
+<li> Bibliografía sugerida. Kschischang (1,2.2,4,5.1), Winn (paper), Herbrich (completo) Otras: Bishop 2006 (8.2-8.2.2, 8.4-8.4.4, 8.4.7). Neal (2.1, 3, 4.1), Pearl (1).</li>
 </ul>
 
 <h4>Unidad 4. Estimación pasiva de efectos causales.</h4>
@@ -225,12 +269,14 @@ Bibliografía en links, en `github.com/glandfried/biblio/releases/tag/teca`, Sci
 <li> Czégel D, Giaffar H, Tenenbaum JB, Szathmáry E. Bayes and Darwin: How replicator populations implement Bayesian computations. BioEssays. 2022.</li>
 <li> Dangauthier P, Herbrich R, Minka T, Graepel T. Trueskill through time: Revisiting the history of chess. In: Advances in Neural Information Processing Systems; 2008</li>
 <li> Gronau QF, Sarafoglou A, Matzke D, Ly A, Boehm U, Marsman M, et al. A tutorial on bridge sampling. Journal of mathematical psychology. 2017.</li>
+<li> Herbrich, R, Minka T, Graepel T. TrueSkill: A Bayesian Skill Rating System. In: Advances in Neural Information Processing Systems; 2006</li>
 <li> Hernán MA, Robins JM. Causal inference: What if. 2020.</li>
 <li> Jaynes ET. Bayesian methods: General background; 1984.</li>
 <li> Kass RE, Raftery AE. Bayes factors. Journal of the American Statistical Association. 1995.</li>
 <li> Kelly jr JL. A New Interpretation of Information Rate. Bell System Technical Journal. 1956</li>
-<li> Klimovsky G. Las desventuras del conocimiento científico; 1994
-Koller D, Friedman N. Probabilistic graphical models: principles and techniques. MIT press; 2009.</li>
+<li> Klimovsky G. Las desventuras del conocimiento científico; 1994</li>
+<li>Koller D, Friedman N. Probabilistic graphical models: principles and techniques. MIT press; 2009.</li>
+<li>Kschischang et al. Factor graphs and the sum-product algorithm. IEEE Transactions on information theory. 2001./li>
 <li> MacKay DJ. Information theory, inference and learning algorithms. Cambridge university press; 2003.</li>
 <li> McElreath R. Statistical rethinking: A Bayesian course with examples in R and Stan. 2020</li>
 <li> Neal. Introduction to causal inference. Course Lecture Notes (draft). 2020;</li>
