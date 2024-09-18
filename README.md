@@ -42,9 +42,9 @@
   <tr>
     <td width="20%" align="center">3 Flujo de inferencia en estructuras causales dinámicas</td>
     <td width="20%" align="center"><a href="http://www.cs.utoronto.ca/~radford/csc2506/factor.pdf">Kschischang (1,2.2,4,5.1)</a><br><a href="https://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf">Herbrich (completo)</a><br><a href="http://proceedings.mlr.press/v22/winn12/winn12.pdf">Winn (completo)</a></td>
-    <td width="20%" align="center"></td>
-    <td width="20%" align="center"></td>
-    <td width="20%" align="center"><br><br></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/3-flujo.pdf">3-flujo.pdf</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/3-practica.pdf">3-practica.pdf</a></td>
+    <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=teuIVfJMomQ">Video Unidad 3 (parte 1)</a><br><br></td>
   </tr>
 </table>
 
