@@ -183,26 +183,30 @@ El problema real detrás de este problema de conocimiento es responder preguntas
 
 <ul>
 <li> Niveles de base empírica. La estructura invariante del dato. El isomorfismo con los sistemas de comunicación emisor-receptor de la teoría de la información.</li>
-<li> Evaluación de sistemas de comunicación alternativos en base a su tasa de predicción en el tiempo, expresada en órdenes de magnitud. Entropía y divergencia.</li>
-<li> Especificación de modelos mediante factor graphs. Descomposición de las reglas de la probabilidad como pasaje de mensajes entre los nodos de las red causal.</li>
+<li> Evaluación de sistemas de comunicación alternativos en base a su tasa de predicción en el tiempo, expresada en órdenes de magnitud.</li>
+<li>La sorpresa como fuente de información. Equivalencia entre la media geométrica de las predicciones y la entropía cruzada. Máxima entropía y divergencia KL.</li>
 <li> Bibliografía sugerida:  MacKay (1.1, 2.4-6, 4.1), Kelly (paper). Otras: Klimovsky (2), Samaja (3.5, 3.6.2-5).</li>
 </ul>
 
 <h4> Unidad 3. Estructuras causales dinámicas (teorías) y flujo de inferencia.</h4>
 
 <ul>
-<li> Estructuras causales dinámicas (teorías). Su especificación mediante gates. Los niveles de razonamiento causal: asociacional, intervencional y contrafactual.</li>
-<li> Flujo de inferencia en teorías causales: pipe, fork, collider. Apertura y cierre de flujos de inferencia entre regiones de la red causal (d-separation).</li>
-<li> Los conceptos de potential outcome y do-operator. El efecto de las intervenciones: truncated factorization. Buenos y malos controles. Ejemplos varios.</li>
+<li> Especificación de modelos mediante factor graphs. Descomposición de las reglas de la probabilidad como pasaje de mensajes entre los nodos de las red causal.</li>
+<li>Estructuras causales dinámicas (teorías). Su especificación
+mediante gates. Flujo de inferencia en las estructuras causales básicas: pipe, fork y collider.</li>
+<li>Implementación completa de la estimación de habilidad en un evento por pasaje de mensajes y aproximaciones analíticas (expectation propagation). Filtro de Kalman.</li>
+<!--<li> Los conceptos de potential outcome y do-operator. El efecto de las intervenciones: truncated factorization. Buenos y malos controles. Ejemplos varios.</li>-->
 <li> Bibliografía sugerida. Kschischang (1,2.2,4,5.1), Winn (paper), Herbrich (completo) Otras: Bishop 2006 (8.2-8.2.2, 8.4-8.4.4, 8.4.7). Neal (2.1, 3, 4.1), Pearl (1).</li>
 </ul>
 
 <h4>Unidad 4. Estimación pasiva de efectos causales.</h4>
 
 <ul>
-<li> Enfoques de estimación de efecto causal: adjustment formula, inverse probability weighting, propensity scores</li>
-<li> Métodos para predicción de contrafactuales: twin networks. Método principal para estimación de efectos causales: el criterio backdoor.</li>
-<li> Otros criterios: frontdoor y do-calculus. Ejemplos de identificación de variables de control. Alternativas: deconfounder, variables instrumentales y otras.</li>
+<li>Los niveles de razonamiento causal: asociacional, intervencional y contrafactual. Los conceptos de potential outcome y do-operator.</li>
+<li>Estimación de efectos causales mediante el control del flujo de inferencia (d-separation). Buenos y malos controles. Ejemplos varios.</li>
+<li>Adjustment formula, inverse probability weighting, propensity scores. backdoor, frontdoor y do-calculus. Contrafactuales: twin networks.</li>
+<!--<li> Estimación de efecto causal:  Ejemplos  el criterio backdoor.</li>-->
+<!--<li> Otros criterios: frontdoor y do-calculus. Ejemplos de identificación de variables de control. Alternativas: deconfounder, variables instrumentales y otras.</li>-->
 <li> Bibliografía sugerida. Pearl (3,6-7), Hernán (parte I), Cinelli (paper), Neal (4, 6, 7.5-7.6).</li>
 </ul>
 
