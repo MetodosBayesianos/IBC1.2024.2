@@ -45,8 +45,15 @@
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/3-flujo.pdf">3-flujo.pdf</a></td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/3-practica.zip">3-practica.zip</a></td>
     <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=teuIVfJMomQ">Video Unidad 3.1</a><br><a href="https://www.youtube.com/watch?v=HaqOMW4h76c">Video Unidad 3.2</a><br></td>
-</table>
   </tr>
+  <tr>
+    <td width="20%" align="center">3 Estimación pasiva de efectos causales</td>
+    <td width="20%" align="center"><a href="https://www.cs.jhu.edu/~joanne/cs105/spring17/pearl-etal-intro.pdf">Pearl 2016 (2 a 4)</a><br><a href="https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf">Cinelli (completo)</a><br><a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal (optativo)</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/4-causa.pdf">4-causa.pdf</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/4-practica.pdf">4-practica.pdf</a></td>
+    <td width="20%" align="center"></td>
+  </tr>
+</table>
 
 
 <h2> Materia <code>Inferencia Bayesiana Causal 1</code>. (IBC1.2024.2)</h2>
