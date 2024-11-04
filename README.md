@@ -51,7 +51,8 @@
     <td width="20%" align="center"><a href="https://www.cs.jhu.edu/~joanne/cs105/spring17/pearl-etal-intro.pdf">Pearl 2016 (2 a 4)</a><br><a href="https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf">Cinelli (completo)</a><br><a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal (optativo)</a></td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/4-causa.pdf">4-causa.pdf</a></td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/4-practica.pdf">4-practica.pdf</a></td>
-    <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=XE8ASZlQjGo">Video Unidad 4.1</a><br></td>
+    <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=XE8ASZlQjGo">Video Unidad 4.1</a><br><a href="https://www.youtube.com/watch?v=DEoQjAja71Y">Video Unidad 4.2</a>
+    </td>
   </tr>
 </table>
 
@@ -294,7 +295,7 @@ Bibliografía en links, en `github.com/glandfried/biblio/releases/tag/teca`, Sci
 <li> Perrakis K, Ntzoufras I, Tsionas EG. On the use of marginal posteriors in marginal likelihood estimation via importance sampling. Computational Statistics & Data Analysis. 2014.</li>
 <li> Popper K. La lógica de la investigación científica; 1967.</li>
 <li> Samaja J. Epistemologı́a y metodología: elementos para una teoría de la investigación científica. EUDEBA; 1999.</li>
-<li> Schrodinger E. ¿Qué es la vida?. Espasa-Calpe. 1948.</li>
+<li> Schrodinger E. ¿Qué es la vida?. 1944.</li>
 <li> Vousden W, Farr WM, Mandel I. Dynamic temperature selection for parallel tempering in Markov chain Monte Carlo simulations. Monthly Notices of the Royal Astronomical Society. 2018</li>
 </ul>
 
