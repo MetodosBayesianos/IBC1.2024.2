@@ -47,11 +47,19 @@
     <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=teuIVfJMomQ">Video Unidad 3.1</a><br><a href="https://www.youtube.com/watch?v=HaqOMW4h76c">Video Unidad 3.2</a><br></td>
   </tr>
   <tr>
-    <td width="20%" align="center">3 Estimación pasiva de efectos causales</td>
+    <td width="20%" align="center">4 Estimación pasiva de efectos causales</td>
     <td width="20%" align="center"><a href="https://www.cs.jhu.edu/~joanne/cs105/spring17/pearl-etal-intro.pdf">Pearl 2016 (2 a 4)</a><br><a href="https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf">Cinelli (completo)</a><br><a href="https://www.bradyneal.com/Introduction_to_Causal_Inference-Dec17_2020-Neal.pdf">Neal (optativo)</a></td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/4-causa.pdf">4-causa.pdf</a></td>
     <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/4-practica.pdf">4-practica.pdf</a></td>
     <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=XE8ASZlQjGo">Video Unidad 4.1</a><br><a href="https://www.youtube.com/watch?v=DEoQjAja71Y">Video Unidad 4.2</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">5 Modelos de historia completa</td>
+    <td width="20%" align="center"><a href="https://papers.nips.cc/paper_files/paper/2007/file/9f53d83ec0691550f7d2507d57f4f5a2-Paper.pdf">Dangauthier 2008 (completo)</a><br><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Bishop 2006 (sec 13)</a><br><a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41854.pdf">Brodersen (optativo)</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/5-tiempo.pdf">5-tiempo.pdf</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/practica/5-practica.zip">5-practica.zip</a></td>
+    <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=CkD8irRKh1Q">Video Unidad 5</a>
     </td>
   </tr>
 </table>
