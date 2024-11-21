@@ -62,6 +62,14 @@
     <td width="20%" align="center"><a href="https://www.youtube.com/watch?v=CkD8irRKh1Q">Video Unidad 5</a>
     </td>
   </tr>
+  <tr>
+    <td width="20%" align="center">6 Acción-percepción</td>
+    <td width="20%" align="center"><a href="https://www.nature.com/articles/s41567-019-0732-0.pdf">Peters 2019 (completo)</a><br><a href="https://arxiv.org/pdf/1805.00909.pdf">Levine 2018 (sec 1 y 2)</a><br><a href="https://direct.mit.edu/books/book-pdf/2246566/book_9780262369978.pdf">Parr 2022 (optativo)</a><br><a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bies.202100255?download=true">Czégel 2022 (optativo)</a></td>
+    <td width="20%" align="center"><a href="https://github.com/MetodosBayesianos/IBC1.2024.2/releases/download/teorica/6-accion.pdf">6-accion.pdf</a></td>
+    <td width="20%" align="center">Examen final</td>
+    <td width="20%" align="center"><a href="https://youtu.be/I5sKUntajaQ">Video Unidad 6</a>
+    </td>
+  </tr>
 </table>
 
 
@@ -183,8 +191,8 @@ El problema real detrás de este problema de conocimiento es responder preguntas
 </p>
 
 <h2>Programa</h2>
-
-<h3>Primera parte</h3>
+<!--
+<h3>Primera parte</h3>-->
 
 <h4>Unidad 1. Introducción a la especificación y evaluación de argumentos causales</h4>
 
@@ -225,28 +233,19 @@ mediante gates. Flujo de inferencia en las estructuras causales básicas: pipe, 
 <!--<li> Otros criterios: frontdoor y do-calculus. Ejemplos de identificación de variables de control. Alternativas: deconfounder, variables instrumentales y otras.</li>-->
 <li> Bibliografía sugerida. Pearl (3,6-7), Hernán (parte I), Cinelli (paper), Neal (4, 6, 7.5-7.6).</li>
 </ul>
+<!--
+<h3>Segunda parte</h3>-->
 
-<h3>Segunda parte</h3>
-
-<h4> Unidad 5. Acción-percepción: el problema de la interacción con la realidad</h4>
-
-<ul>
-<li> Persistencia de la vida fuera del equilibrio. Intercambio acción-percepción agente-ambiente. El intento por minimizar la sorpresa esperada.</li>
-<li> Reformulación ergódica de la teoría de utilidad esperada. Planificación como inferencia. Evaluación de acciones mediante pseudo-posteriors.</li>
-<li> Control óptimo en Partial Observed Markov Decision Process (POMDP). Ejemplos de selección de acciones. Valor de la información.</li>
-<li> Bibliografía: Parr (1-3), Schrodinger (4-7),  Peters (paper), Levine (1-2), Pearl (4). Otras: Koller (21)</li>
-</ul>
-
-<h4> Unidad 6. Evaluación activa de argumentos causales.</h4>
+<!--<h4> Unidad 6. Evaluación activa de argumentos causales.</h4>
 
 <ul>
 <li> Evaluación de argumentos causales como un juego de interacción acción-percepción con el ambiente. Métodos de Monte Carlo para evaluar teorías.</li>
 <li> Ejemplos de evaluación de modelos causales a través de datos obtenidos por interacción con una simulador causal subyacente oculto.</li>
 <li> Planificación del diseño experimental. La emergencia de la estrategia falsacionista como comportamiento óptimo.</li>
 <li> Bibliografía sugerida. Kass (paper), Pearl (7,9). Hernán (parte II)</li>
-</ul>
+</ul>-->
 
-<h4>Unidad 7. Inferencia causal en series temporales.</h4>
+<h4>Unidad 5. Series temporales y modelos de historia completa.</h4>
 
 <ul>
 <li> Modelos de historia completa. Problemas de usar el último posterior como prior del siguiente evento. Propagación de la información por toda la red histórica causal.</li>
@@ -255,14 +254,24 @@ mediante gates. Flujo de inferencia en las estructuras causales básicas: pipe, 
 <li> Bibliografía sugerida. Brodersen (paper), Dangauthier (paper), Bishop (13.2.3-13.2.4, 13.3), Hernán (parte II).</li>
 </ul>
 
-<h4> Unidad 8. Isomorfismo probabilidad-evolución y hackatón "apuestas de vida".</h4>
+<h4> Unidad 6. Acción-percepción: el problema de la interacción con la realidad</h4>
+
+<ul>
+<li> Ciclos de acción-percepción. La persistencia de la vida fuera del equilibrio. Isomorfismo probabilidad-evolución. Toma de decisiones por minimización de la sorpresa esperada.</li>
+<li>Apuestas óptimas: ventajas a favor de la diversificación individual, la cooperación y la especialización cooperativa. Transiciones evolutivas y epistémicas mayores.</li>
+<li>Re-formulación ergódica de la teoría de utilidad esperada. Kelly Criterion. Planificación como inferencia. Control óptimo mediante pseudo-posteriors de las acciones.</li>
+<li> Bibliografía: Peters (paper), Levine (1-2), Parr (1-3), Schrodinger (4-7)</li>
+</ul>
+
+
+<!--<h4> Unidad 8. Isomorfismo probabilidad-evolución y hackatón "apuestas de vida".</h4>
 
 <ul>
 <li> Isomorfismo entre las ecuaciones fundamentales de la teoría de la probabilidad (teorema de Bayes) y la teoría de la evoluición (replicator dynamic).</li>
 <li> Las emergencia de las variantes que reducen las fluctuaciones por diversificación individual, cooperación, especialización cooperativa y heterogeneidad.</li>
 <li> Presentación de una competencia de inferencia, intervención, apuestas e intercambios de recursos. Cierre y conclusiones.</li>
 <li> Bibliografía sugerida. Czegel (paper).</li>
-</ul>
+</ul>-->
 
 <h2> Bibliografía</h2>
 
